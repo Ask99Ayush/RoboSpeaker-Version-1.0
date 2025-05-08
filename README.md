@@ -1,2 +1,13 @@
-# RoboSpeaker-Version-1.0
-RoboSpeaker Version 1.0 is a simple Python-based Text-to-Speech (TTS) application using the pyttsx3 library. It allows users to input text, which is then spoken aloud. The app provides a basic command-line interface and is cross-platform, supporting Windows.
+# 🤖 RoboSpeaker Version 1.0
+
+A simple Python-based Text-to-Speech (TTS) application using the `pyttsx3` library that converts text into spoken words. This project is great for beginners to explore Python automation and speech synthesis.
+
+## 🛠️ Features
+
+- Converts any text input into speech
+- Easy to use command-line interface
+- Lightweight and beginner-friendly
+- Exits gracefully when user types `quit`
+
+## 🖥️ Demo
+
